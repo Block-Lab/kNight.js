@@ -17,7 +17,7 @@
     "cryptonight"
   ],
   "author": "Mukundan",
-  "license": "UNLICENSED",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Block-Lab/kNight.js/issues"
   },
