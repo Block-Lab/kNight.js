@@ -1,0 +1,30 @@
+{
+  "name": "knight-miner",
+  "version": "1.0.0",
+  "description": "A pure JavaScript CryptoNight miner",
+  "main": "main.js",
+  "scripts": {
+    "lint": "standard --fix",
+    "test": "standard && mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Block-Lab/kNight.js.git"
+  },
+  "keywords": [
+    "blockchain",
+    "monero",
+    "cryptonight"
+  ],
+  "author": "Mukundan",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Block-Lab/kNight.js/issues"
+  },
+  "homepage": "https://github.com/Block-Lab/kNight.js#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "standard": "^11.0.1"
+  }
+}
