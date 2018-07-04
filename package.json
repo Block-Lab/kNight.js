@@ -7,6 +7,9 @@
     "lint": "standard --fix",
     "test": "standard && mocha"
   },
+  "standard": {
+    "env": [ "mocha" ]
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Block-Lab/kNight.js.git"
