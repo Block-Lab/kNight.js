@@ -2,7 +2,7 @@
   "name": "knight-miner",
   "version": "1.0.0",
   "description": "A pure JavaScript CryptoNight miner",
-  "main": "main.js",
+  "main": "lib/index.js",
   "scripts": {
     "lint": "standard --fix",
     "test": "standard && mocha"
