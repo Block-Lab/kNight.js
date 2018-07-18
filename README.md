@@ -7,4 +7,4 @@ kNight.js is a completely free, open-source alternative to coin-hive as a Crypto
 
 ## Acknowledgements
 
-The CryptoNight Hash used is based on / largely copied from [notgiven688/webminerpool](https://github.com/notgiven688/webminerpool/tree/master/hash_cn/webassembly) which is based on the monero code.
+The CryptoNight hash used is largely copied from [notgiven688/webminerpool](https://github.com/notgiven688/webminerpool/tree/master/hash_cn/webassembly) which is based on the Monero code.
