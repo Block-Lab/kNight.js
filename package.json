@@ -8,7 +8,9 @@
     "test": "standard && mocha"
   },
   "standard": {
-    "env": [ "mocha" ]
+    "env": [
+      "mocha"
+    ]
   },
   "repository": {
     "type": "git",
@@ -23,6 +25,9 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Block-Lab/kNight.js/issues"
+  },
+  "engines": {
+    "node": ">=8.0.0"
   },
   "homepage": "https://github.com/Block-Lab/kNight.js#readme",
   "dependencies": {},
