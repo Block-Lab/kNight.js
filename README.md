@@ -5,7 +5,7 @@
 
 - [x] Monero Stratum Protocol
 - [x] CryptoNight Hash
-- [ ] Calculating Merkle Tree Root
+- [ ] Integrating with Node.js
 - [ ] Working Release
 
 # kNight.js
