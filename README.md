@@ -1,6 +1,8 @@
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 [![Build Status](https://travis-ci.org/Block-Lab/kNight.js.svg?branch=master)](https://travis-ci.org/Block-Lab/kNight.js)
-[![CodeFactor](https://www.codefactor.io/repository/github/block-lab/knight.js/badge)](https://www.codefactor.io/repository/github/block-lab/knight.js) [![Greenkeeper badge](https://badges.greenkeeper.io/Block-Lab/kNight.js.svg)](https://greenkeeper.io/)
+[![CodeFactor](https://www.codefactor.io/repository/github/block-lab/knight.js/badge)](https://www.codefactor.io/repository/github/block-lab/knight.js)
+[![Greenkeeper badge](https://badges.greenkeeper.io/Block-Lab/kNight.js.svg)](https://greenkeeper.io/)
+[![Known Vulnerabilities](https://snyk.io/test/github/Block-Lab/kNight.js/badge.svg?targetFile=package.json)](https://snyk.io/test/github/Block-Lab/kNight.js?targetFile=package.json)
 
 # Status
 
