@@ -11,7 +11,9 @@
 
 # kNight.js
 
-kNight.js is a completely free, open-source alternative to coin-hive as a CryptoNight miner built with JavaScript.
+kNight.js is one of the first completely free alternatives to coin-hive as a CryptoNight miner.
+
+We believe that mining will eventually replace Ads as a way to generate revenue for sites.
 
 ## Acknowledgements
 
