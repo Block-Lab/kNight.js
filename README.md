@@ -6,7 +6,7 @@
 
 - [x] Monero Stratum Protocol
 - [x] CryptoNight Hash
-- [ ] Integrating with Node.js
+- [x] Integrating with Node.js
 - [ ] Working Release
 
 # kNight.js
