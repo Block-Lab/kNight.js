@@ -62,3 +62,7 @@ typings/
 
 # Object files
 *.o
+
+# emscripten compiled files
+lib/cryptonight/cn.js
+*.wasm
