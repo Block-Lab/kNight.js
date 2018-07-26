@@ -1,5 +1,5 @@
 {
-  "name": "knight-miner",
+  "name": "kminer",
   "version": "1.0.0",
   "description": "A pure JavaScript CryptoNight miner",
   "main": "lib/index.js",
