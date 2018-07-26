@@ -5,7 +5,7 @@
   "main": "lib/index.js",
   "scripts": {
     "lint": "standard --fix",
-    "test": "standard && mocha"
+    "test": "standard"
   },
   "standard": {
     "env": [
@@ -32,7 +32,6 @@
   "homepage": "https://github.com/Block-Lab/kNight.js#readme",
   "dependencies": {},
   "devDependencies": {
-    "mocha": "^5.2.0",
     "standard": "^11.0.1"
   }
 }
