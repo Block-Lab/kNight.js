@@ -2,17 +2,13 @@
 [![CodeFactor](https://www.codefactor.io/repository/github/block-lab/knight.js/badge)](https://www.codefactor.io/repository/github/block-lab/knight.js)
 [![Known Vulnerabilities](https://snyk.io/test/github/Block-Lab/kNight.js/badge.svg?targetFile=package.json)](https://snyk.io/test/github/Block-Lab/kNight.js?targetFile=package.json)
 
-# Status
-
-- [x] Monero Stratum Protocol
-- [x] CryptoNight Hash
-- [x] Integrating with Node.js
-- [ ] Working Release
-
 # kNight.js
 
 One of the first completely free alternatives to coin-hive as a CryptoNight miner built with Node.js and WebAssembly.  
+
 kNight can potentially replace the current Ad-based revenue model for sites.
+
+**Note:** Currently uses 100% CPU, and does not terminate old jobs until they are done.
 
 ## Major Supported Currencies
 
