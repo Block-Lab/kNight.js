@@ -32,6 +32,6 @@
   "homepage": "https://github.com/Block-Lab/kNight.js#readme",
   "dependencies": {},
   "devDependencies": {
-    "standard": "^11.0.1"
+    "standard": "^12.0.0"
   }
 }
