@@ -1,8 +1,24 @@
-[![Build Status](https://travis-ci.org/Block-Lab/kNight.js.svg?branch=master)](https://travis-ci.org/Block-Lab/kNight.js)
-[![CodeFactor](https://www.codefactor.io/repository/github/block-lab/knight.js/badge)](https://www.codefactor.io/repository/github/block-lab/knight.js)
-[![Known Vulnerabilities](https://snyk.io/test/github/Block-Lab/kNight.js/badge.svg?targetFile=package.json)](https://snyk.io/test/github/Block-Lab/kNight.js?targetFile=package.json)
+<h1 align="center">kNight.js</h1>
 
-# kNight.js
+<div align="center">
+  <strong>Cryptonight Miner</strong>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://travis-ci.org/Block-Lab/kNight.js">
+    <img src="https://travis-ci.org/Block-Lab/kNight.js.svg?branch=master" alt="Build Status">
+  </a>
+  <a href="https://www.codefactor.io/repository/github/block-lab/knight.js">
+    <img src="https://www.codefactor.io/repository/github/block-lab/knight.js/badge" alt="code quality">
+  </a>
+  <a href="https://snyk.io/test/github/Block-Lab/kNight.js">
+    <img src="https://snyk.io/test/github/Block-Lab/kNight.js/badge.svg" alt="Known Vulnerabilities">
+  </a>
+</div>
+
+## About
 
 One of the first completely free alternatives to coin-hive as a CryptoNight miner built with Node.js and WebAssembly.  
 
