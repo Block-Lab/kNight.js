@@ -1,19 +1,22 @@
+const RoundClient = require('./RoundClient')
 let hash = require('./hash')
-let StratumClient = require('./stratumClient')
 
 function getRandomHex (min, max) {
   return hash.int2hex(Math.floor(Math.random() * (max - min + 1)) + min)
 }
 
 function miner (host, port, user, pass, rigId) {
-  let client = new StratumClient(host, port)
+  let client = new RoundClient(host, port)
 
   client.login(user, pass, rigId)
 
   client.on('job', (params) => {
+    console.log(params)
     let jobId = params.job_id
     let blob = params.blob
     let target = hash.hex2int(params.target)
+
+	  console.log(blob)
 
     var hexnonce, result
     var bsuccess = false

@@ -66,3 +66,5 @@ typings/
 # emscripten compiled files
 lib/cryptonight/cn.js
 *.wasm
+
+dist/
