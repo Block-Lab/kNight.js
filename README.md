@@ -20,7 +20,7 @@
 
 ## About
 
-One of the first completely free alternatives to coin-hive as a CryptoNight miner built with Node.js and WebAssembly.  
+One of the first completely free alternatives to coin-hive as a CryptoNight miner built with js and WebAssembly.  
 
 kNight can potentially replace the current Ad-based revenue model for sites.
 
