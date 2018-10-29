@@ -20,6 +20,8 @@
 
 ## About
 
+**Note: This is no longer functional for Monero since the release cryptonight_v8**
+
 One of the first completely free alternatives to coin-hive as a CryptoNight miner built with js and WebAssembly.  
 
 kNight can potentially replace the current Ad-based revenue model for sites.
